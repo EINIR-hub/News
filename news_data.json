@@ -5,6 +5,7 @@
     "size": "large",
     "date": "2025-12-04",
     "is_pinned": true,
+    "show_image": true,
     "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000&auto=format&fit=crop",
     "title": {
       "ru": "LSpace v1.0: Начало",
@@ -40,6 +41,8 @@
     "type": "vote",
     "size": "medium",
     "date": "2025-12-03",
+    "show_image": false,
+    "image": "https://images.unsplash.com/photo-1616593871277-24027725944a?q=80&w=1000&auto=format&fit=crop",
     "title": {
       "ru": "Что добавить дальше?",
       "en": "What's Next?",
@@ -64,6 +67,7 @@
     "vote_options": [
       {
         "id": "v1",
+        "count": 150,
         "label": {
           "ru": "Мини-игры (Сиритори)",
           "en": "Mini-games (Shiritori)",
@@ -74,6 +78,7 @@
       },
       {
         "id": "v2",
+        "count": 320,
         "label": {
           "ru": "Аниме Темы",
           "en": "Anime Themes",
@@ -89,6 +94,8 @@
     "type": "devlog",
     "size": "small",
     "date": "2025-12-02",
+    "show_image": false,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop",
     "title": {
       "ru": "Привет от Разраба",
       "en": "Hello from Dev",
@@ -123,6 +130,7 @@
     "type": "sneak_peek",
     "size": "large",
     "date": "2025-11-30",
+    "show_image": true,
     "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=1000&auto=format&fit=crop",
     "title": {
       "ru": "Спойлер: Твой Словарь",
