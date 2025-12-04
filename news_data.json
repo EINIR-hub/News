@@ -1,0 +1,157 @@
+[
+  {
+    "id": "release_1_0",
+    "type": "release",
+    "size": "large",
+    "date": "2025-12-04",
+    "is_pinned": true,
+    "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000&auto=format&fit=crop",
+    "title": {
+      "ru": "LSpace v1.0: Начало Пути",
+      "en": "LSpace v1.0: The Beginning",
+      "ja": "LSpace v1.0: 旅の始まり",
+      "ko": "LSpace v1.0: 여정의 시작",
+      "zh": "LSpace v1.0: 旅程的开始"
+    },
+    "body": {
+      "ru": "Первый публичный релиз! Темная тема, никакого мусора, полная свобода. Спасибо, что вы с нами.",
+      "en": "First public release! Strict dark mode, no bloatware, complete freedom. Thanks for being with us.",
+      "ja": "初リリース！ダークモード、不要な機能なし、完全な自由。ご利用ありがとうございます。",
+      "ko": "첫 공개 릴리스! 다크 모드, 광고 없음, 완전한 자유. 함께 해주셔서 감사합니다.",
+      "zh": "首次公开发布！深色模式，无广告，完全自由。感谢您的支持。"
+    },
+    "tags": {
+      "ru": "Крупное обновление",
+      "en": "Major Update",
+      "ja": "大型アップデート",
+      "ko": "대규모 업데이트",
+      "zh": "重大更新"
+    }
+  },
+  {
+    "id": "vote_jan_features",
+    "type": "vote",
+    "size": "medium",
+    "date": "2025-12-03",
+    "title": {
+      "ru": "Голосование: Январь",
+      "en": "Vote: January Features",
+      "ja": "投票：1月の機能",
+      "ko": "투표: 1월 기능",
+      "zh": "投票：一月功能"
+    },
+    "body": {
+      "ru": "Я один, ресурсы ограничены. Что пилить дальше?",
+      "en": "I am solo, resources are limited. What should I build next?",
+      "ja": "一人で開発しています。次はどれを作りましょうか？",
+      "ko": "혼자 개발 중입니다. 다음엔 무엇을 만들까요?",
+      "zh": "我独自开发，资源有限。接下来该做什么？"
+    },
+    "vote_options": [
+      {
+        "id": "v1",
+        "count": 150,
+        "label": {
+          "ru": "Кандзи по уровням",
+          "en": "Kanji Levels",
+          "ja": "漢字学習 (N5-N1)",
+          "ko": "한자 레벨",
+          "zh": "汉字分级"
+        }
+      },
+      {
+        "id": "v2",
+        "count": 320,
+        "label": {
+          "ru": "Аниме Темы (XSpace)",
+          "en": "Anime Themes (XSpace)",
+          "ja": "アニメテーマ (XSpace)",
+          "ko": "애니메이션 테마",
+          "zh": "动漫主题"
+        }
+      }
+    ]
+  },
+  {
+    "id": "devlog_clones",
+    "type": "devlog",
+    "size": "small",
+    "date": "2025-12-02",
+    "title": {
+      "ru": "Осторожно: Клоны",
+      "en": "Warning: Fake Apps",
+      "ja": "偽アプリに注意",
+      "ko": "가짜 앱 주의",
+      "zh": "警告：假冒应用"
+    },
+    "body": {
+      "ru": "В сторе появились подделки. Оригинал LSpace только здесь. Не дайте себя обмануть.",
+      "en": "Fake apps appeared in the store. The original LSpace is only here. Don't get scammed.",
+      "ja": "ストアに偽物が出回っています。本物のLSpaceはここだけです。騙されないでください。",
+      "ko": "스토어에 가짜 앱이 등장했습니다. 정품 LSpace는 여기뿐입니다. 속지 마세요.",
+      "zh": "商店中出现了假冒应用。正版 LSpace 仅此一家。请勿上当。"
+    },
+    "tags": {
+      "ru": "Важно",
+      "en": "Important",
+      "ja": "重要",
+      "ko": "중요",
+      "zh": "重要"
+    }
+  },
+  {
+    "id": "fix_scroll_bug",
+    "type": "fix",
+    "size": "small",
+    "date": "2025-12-01",
+    "title": {
+      "ru": "Хотфикс: Лаги скролла",
+      "en": "Hotfix: Scroll Lag",
+      "ja": "修正：スクロールの遅延",
+      "ko": "핫픽스: 스크롤 지연",
+      "zh": "热修复：滚动延迟"
+    },
+    "body": {
+      "ru": "Исправил дергание списка на старых Андроидах. Теперь плавно.",
+      "en": "Fixed list stuttering on older Androids. Smooth now.",
+      "ja": "古いAndroidでのリストのガタつきを修正しました。スムーズです。",
+      "ko": "구형 안드로이드에서 리스트가 끊기는 문제를 수정했습니다.",
+      "zh": "修复了旧版 Android 上的列表卡顿问题。现在很流畅。"
+    },
+    "tags": {
+      "ru": "Баги",
+      "en": "Bugs",
+      "ja": "バグ修正",
+      "ko": "버그",
+      "zh": "错误修复"
+    }
+  },
+  {
+    "id": "sneak_ai_voice",
+    "type": "sneak_peek",
+    "size": "large",
+    "date": "2025-11-30",
+    "image": "https://images.unsplash.com/photo-1614726365723-49cfae92782f?q=80&w=1000&auto=format&fit=crop",
+    "title": {
+      "ru": "Спойлер: Живой Голос",
+      "en": "Sneak Peek: Alive Voice",
+      "ja": "予告：リアルなAI音声",
+      "ko": "미리보기: 생생한 목소리",
+      "zh": "预览：逼真语音"
+    },
+    "body": {
+      "ru": "Тестирую новую нейронку для озвучки. Звучит как реальная сэйю, а не робот. Скоро в XSpace.",
+      "en": "Testing new neural TTS. Sounds like a real seiyuu, not a robot. Coming to XSpace.",
+      "ja": "新しいAI音声をテスト中。ロボットではなく、本物の声優のように聞こえます。XSpaceに近日登場。",
+      "ko": "새로운 AI 음성을 테스트 중입니다. 로봇이 아닌 진짜 성우처럼 들립니다. XSpace 출시 예정.",
+      "zh": "正在测试新的神经 TTS。听起来像真正的声优，而不是机器人。即将登陆 XSpace。"
+    },
+    "tags": {
+      "ru": "Будущее",
+      "en": "Future",
+      "ja": "将来",
+      "ko": "미래",
+      "zh": "未来"
+    }
+  }
+]
